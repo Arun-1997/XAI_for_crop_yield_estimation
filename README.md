@@ -1,1 +1,3 @@
-# XAI_for_crop_yield_estimation
+# XAI for crop yield estimation
+
+This repository provides the script to process and prepare the Sentinel-2 data, run and evaluate the CNN model, perform the perturbation analysis
